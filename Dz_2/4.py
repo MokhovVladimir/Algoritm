@@ -1,3 +1,5 @@
+""" """
+
 def getDescentPeriods(prices):
     dp = [1] * len(prices)
     g = len(prices)
